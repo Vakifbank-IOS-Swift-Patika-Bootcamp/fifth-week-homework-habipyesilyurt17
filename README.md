@@ -1,33 +1,11 @@
 # fifth-week-homework
+Proje Xcode 14 ile geliştirilmiştir.
+- Projede eksik olan kısım ilgili notu güncellerken dublicate ediyorum.
 
-## 1- Breaking Bad api uygulamamıza persistant özelliği kazandıracağız.
+https://user-images.githubusercontent.com/43083994/205514000-8d69a502-ca55-454a-a7fd-f08ad63e2086.mp4
 
-### Uygulamamıza Yeni bir tab ekleyeceğiz: Notlar
+# LeedCode Images
+![](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fifth-week-homework-habipyesilyurt17/blob/main/Homework/LeetCode/leetCode1.png)
+![](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fifth-week-homework-habipyesilyurt17/blob/main/Homework/LeetCode/leetCode2.png)
+![](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/fifth-week-homework-habipyesilyurt17/blob/main/Homework/LeetCode/leetCode3.png)
 
-• Ekranda bölümlerden aldığımız notların listesi olacak.
-
-• Listeden sola kaydırarak eleman silebilmeliyiz.
-
-• Floating button şeklinde ekle butonumuz olacak.
-
-• Ekle butonuna bastığımızda ekle/düzenle ekranı present edilecek. Boş bilgiler
-
-• Listeden item seçtiğimizde ekle/düzenle ekranı present edilecek. Seçtiğimiz item bilgileri ile.
-
-### Ekleme/Düzenleme Ekranı
-
-• Ekleme ekranında sezon, bölüm bilgisi girip notumuzu yazacağız.
-
-• Ekleme ekranındaki kaydet butonu ile CoreData üzerinde kayıt edeceğiz.
-
-• Eğer item düzenleme ile gelindiyse ilgili not update edilmelidir.
-
-
-### 2- Clean Code - 5, 6, 7, 8 chapterlar özetlenmelidir.
-
-### 3- Crack the Interviews - 1, 2, 3 Çalışılacak.
- 
-### 4- Leet Code üzerinden seçilmiş 3 soru çözülecek ve soruya ait görseller repoya eklenecek. 
-Soru çözüldükten sonra submission kısmından görseli alabilirsiniz. Örn:
-
-<img width="584" alt="image" src="https://user-images.githubusercontent.com/65663370/204152185-1f073bb2-4e0d-4466-b29f-61adcbe15a8f.png">
